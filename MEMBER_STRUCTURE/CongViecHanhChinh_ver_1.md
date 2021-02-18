@@ -10,9 +10,10 @@
 - (Công việc 1)Thực hiện công việc liên quan đến ghi chép, excel, khảo sát theo yêu cầu của ban chuyên môn.
 - (Công việc 2)Thực hiện công việc thông báo hung hãn tới các thành viên chuyên môn lười hoặc khi tiến độ không đạt.
 
+
 - Làm việc, chat, nói chuyện trực tiếp với các thành viên điều hành ban chuyên môn.
 - Tham gia vào mọi hoạt động của ban chuyên môn.
-- Training chuyên môn theo yêu cầu.
+- Được training chuyên môn theo yêu cầu.
 
 # Job Requirement Expectation (Nếu không thỏa mãn, chọn người gần nhất)
 - Khả năng nghe hiểu các cuộc hội thoại phức tạp
